@@ -1,1 +1,1 @@
-新建HelloWorld项目
+HelloWorld项目-1.0
